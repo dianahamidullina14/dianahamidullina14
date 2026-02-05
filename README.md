@@ -49,11 +49,13 @@
 | [Interest-in-car-insurance](https://github.com/dianahamidullina14/Interest-in-car-insurance) | Анализ и прогнозирование интереса клиентов к автострахованию с использованием алгоритмов машинного обучения. Цель проекта — выявление клиентов, которые, вероятно, заинтересуются страховыми продуктами, для проведения целевых маркетинговых кампаний.|pandas, numpy, matplotlib, seaborn, scikit-learn, LightGBM, CatBoost|
 
 
-## Kaggle Competitions
+## 📍 Контакты
 
-Участвую в соревнованиях Kaggle для оттачивания имеющихся навыков и приобретения новых)
-
-## Как со мной связаться
-
-- [Telegram](https://t.me/didishaham)
-- [Email](dianahamidullina14@gmail.com)
+<p align="left">
+  <a href="https://t.me/didishaham" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:dianahamidullina14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
