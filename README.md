@@ -24,7 +24,7 @@
 - **Продакшен-интеграция:** разработка и поддержка API
 
 ### **Инструменты и технологии:**
-`Python` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `FastAPI` `Docker` `SQL` `Git`
+`Python` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `FastAPI` `SQL` `Git`
 
 ---
 
