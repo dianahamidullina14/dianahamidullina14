@@ -22,12 +22,9 @@
 - **Валидация и тестирование:** A/B-тесты, статистическая проверка гипотез, метрики качества
 - **Продакшен-интеграция:** разработка и поддержка API
 
-### **Инструменты и технологии:**
-`Python` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `FastAPI` `SQL` `Git`
-
 ---
 
-## 📊 Навыки
+## **Инструменты и технологии:**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
