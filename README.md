@@ -1,6 +1,6 @@
 # Привет! Меня зовут Диана👋
 
-**Data Scientist** | Специалист по end-to-end ML-решениям  
+**Data Scientist** | 
 ---
 
 ##  О себе
